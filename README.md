@@ -1,9 +1,11 @@
-# AboutMe
-
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">AMU / RANEPA student</h3>
 
-<h3 align="left">Connect with me:</h3>
+- 🌱 I’m currently learning **maths, info, economics**
+
+- ⚡ Fun fact **never give up 🤡🔫**
+
+<h3 align="left">Connect with me: salut.dityatev@yandex.ru</h3>
 <p align="left">
 </p>
 
